@@ -6,8 +6,8 @@
 <image src="readme/FMDSP.PMG"/>
 <image src="readme/MOBL_PMD.PNG"/>
 
-Идеально подойдёт для любителей музыки на PC-98, так как в плеер встроен эмулятор YM2608 и PMD.
-<audio src="readme/NGGYU.MP3"/>
+Идеально подойдёт для любителей музыки на PC-98, так как в плеер встроен эмулятор YM2608 и PMD. Пример звучания:
+https://www.youtube.com/embed/_Ue8b9WSu6s?si=SSpzQYj0vSmt5CnA
 
 ## Преимущества
 * Красивый интерфейс
