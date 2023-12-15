@@ -17,3 +17,7 @@ https://www.youtube.com/embed/_Ue8b9WSu6s?si=SSpzQYj0vSmt5CnA
 * Точная настройка для каждого инструмента
 * Возможность самому создавать музыку благодаря редактору MML
 * Конвертация MIDI->MML
+
+## Для программистов
+UML-диаграмма
+<image src="readme/UML.PNG"/>
